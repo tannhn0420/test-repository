@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is some description for java2
 2
+=======
+2222
+>>>>>>> 2cffe58941a64640c7d7dadad8f9a3632b64f1dc
